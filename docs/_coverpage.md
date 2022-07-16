@@ -1,4 +1,4 @@
-![logo](chird.gif)
+![logo](person.jpeg)
 
 # 泽泽泽创造的神秘空间 <small>1.0</small>
 
